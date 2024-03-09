@@ -1,0 +1,27 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__img img{
+    width: 50%;
+}
+
+.header__navigation{
+    display: flex;
+    gap: 40px;
+}
+
+.header__navigation a{
+    text-decoration: none;
+    color: rgb(73, 73, 73);
+    font-family:'Times New Roman', Times, serif;
+}
+
+.header__navigation a:hover{
+    color: black;
+    cursor: pointer;
+    transition: all 0.3s ;
+    filter: drop-shadow(10px 10px 20px black);
+}
+

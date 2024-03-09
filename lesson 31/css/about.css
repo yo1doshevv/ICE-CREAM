@@ -1,0 +1,145 @@
+.container {
+  width: 90%;
+  height: 2700px;
+  margin: 50px auto;
+  box-shadow: 0 0 1px rgb(0, 0, 0);
+}
+
+.wrapper {
+  width: 90%;
+  margin: 50px auto;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10%;
+}
+
+.navbar__img img {
+  width: 240px;
+  height: 26px;
+}
+
+.navbar__navigation {
+  display: flex;
+}
+
+.navbar__navigation a {
+  color: rgb(88, 87, 87);
+  text-decoration: none;
+  margin: 20px;
+}
+
+.page-1 {
+  margin-top: 7%;
+}
+
+.page-1__img img {
+  width: 100%;
+}
+
+.page-1__title {
+  color: white;
+  margin-top: -380px;
+  margin-left: 10px;
+  font-weight: 900;
+}
+
+.page-1__text {
+  margin-bottom: 30%;
+  width: 400px;
+  color: white;
+  margin-left: 75px;
+  font-weight: 10;
+  font-family: "Courier New", Courier;
+}
+
+.page-2 {
+  display: flex;
+  margin-bottom: 10%;
+}
+
+.page-2_title, h1 {
+  margin-left: 70px;
+  margin-top: 120px;
+}
+
+.page-3 {
+  height: 500px;
+  background-color: rgb(0, 32, 44);
+  margin-top: 20%;
+  border-radius: 5px;
+}
+
+.page-3__img img {
+  position: relative;
+  margin-left: 52%;
+  margin-top: -48px;
+}
+
+.page-3__title {
+  color: white;
+  margin-top: -35%;
+}
+
+.page-3__text p {
+  color: white;
+  width: 460px;
+  font-family: "Courier New", Courier;
+  margin-left: 70px;
+}
+
+.page-4__title {
+  color: rgb(85, 82, 82);
+  font-family: serif;
+}
+
+.page-4__big-box {
+  display: flex;
+  margin-top: 100px;
+  margin-bottom: 50%;
+  width: 1045;
+  margin: 100px auto;
+}
+
+.page-4__box1 {
+  margin-left: 7%;
+  margin-right: 150px;
+}
+
+.page-4__box2 {
+  margin-right: 180px;
+}
+
+.footer {
+  background-color: rgb(1, 1, 37);
+  color: white;
+  width: 98%;
+  padding: 20px;
+  display: flex;
+}
+
+.footer__img img {
+  width: 50%;
+  background-color: white;
+  margin-top: 7px;
+  border-radius: 4px;
+}
+
+.footer__navigation {
+  display: flex;
+  margin-top: 10px;
+}
+
+.footer__navigation a {
+  margin: 25px;
+  color: rgb(63, 63, 63);
+  text-decoration: none;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.footer__navigation a:hover {
+  cursor: pointer;
+  color: white;
+}/*# sourceMappingURL=about.css.map */

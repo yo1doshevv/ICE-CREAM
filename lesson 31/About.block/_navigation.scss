@@ -1,0 +1,20 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10%;
+}
+
+.navbar__img img{
+    width: 240px;
+    height: 26px;
+}
+
+.navbar__navigation{
+    display: flex;
+}
+
+.navbar__navigation a{
+    color: rgb(88, 87, 87);
+    text-decoration: none;
+    margin: 20px;
+}

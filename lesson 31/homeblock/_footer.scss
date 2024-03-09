@@ -1,0 +1,31 @@
+.footer{
+    background-color: rgb(1, 1, 37);
+    color: white;
+    width: 98%;
+    padding: 20px;
+    display: flex;
+}
+
+.footer__img img{
+    width: 50%;
+    background-color: white;
+    margin-top: 7px;
+    border-radius: 4px;
+}
+
+.footer__navigation{
+    display: flex;
+    margin-top: 10px;
+}
+
+.footer__navigation a{
+    margin: 25px;
+    color: rgb(63, 63, 63);
+    text-decoration: none;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.footer__navigation a:hover{
+    cursor: pointer;
+    color: white;
+}

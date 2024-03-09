@@ -1,0 +1,72 @@
+.page-4__title{
+    color: rgb(63, 63, 63);
+    margin-bottom: 50px;
+}
+
+.page-4__radio div{
+    border: 1px solid rgb(2, 112, 175);
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 20%;
+    z-index: 1;
+}
+
+.page-4__radio div:hover{
+    box-shadow: 0 0 5px rgb(5, 5, 5);
+}
+
+.page-4__radio h1 hr{
+    position: relative;
+    margin-top: -36px;
+    width: 20.3%;
+    margin-left: 21px;
+}
+
+.page-4__radio h2 hr{
+    position: relative;
+    margin-top: -24px;
+    width: 20.3%;
+    margin-left: 24.5%;
+}
+
+.page-4__new-1{
+    width: 285px;
+    height:300px;
+    display: inline-block;
+    margin-right: 70px;
+    margin-top: 3%;
+}
+
+
+.page-4__new-2{
+    width: 285px;
+    height:300px;
+    display: inline-block;
+    margin-right: 70px;
+}
+
+.page-4__new-3{
+    width: 285px;
+    height:300px;
+    display: inline-block;
+}
+
+.button button{
+   border: none;
+   background-color: rgb(5, 146, 146);
+   color: white;
+   height: 35px;
+   width: 150px;
+   border-radius: 4px;
+   margin-top: -200px;
+   margin-bottom: 20%;
+}
+
+.page-4 h1{
+    color: rgb(129, 76, 7);
+    font-weight: 300;
+}
+
+
